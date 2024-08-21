@@ -1,6 +1,6 @@
 <b>Name</b> : Anunay Anand <br/>
 <b>Company</b> : CODTECH IT SOLLUTIONS <br/>
-<b>Id</b> : CT08DS6996 <br/>
+<b>ID</b> : CT08DS6996 <br/>
 <b>Domain </b>: Web Development <br/>
 <b>Duration </b>: August to September 2024 <br/>
 <br>
