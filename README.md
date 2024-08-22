@@ -4,7 +4,7 @@
 <b>Domain </b>: Web Development <br/>
 <b>Duration </b>: 15 August to 15 September 2024 <br/>
 <br>
-<h3>Project : TO-DO App</h3>
+<h1>Project : TO-DO Application</h1>
 <hr/>
 <h2>Overview of the Project:</h2>
 <img src="https://i.postimg.cc/Fz1CqFGG/Screenshot-2024-08-21-201331.png">
