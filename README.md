@@ -2,7 +2,7 @@
 <b>Company</b> : CODTECH IT SOLLUTIONS <br/>
 <b>ID</b> : CT08DS6996 <br/>
 <b>Domain </b>: Web Development <br/>
-<b>Duration </b>: August to September 2024 <br/>
+<b>Duration </b>: 15 August to 15 September 2024 <br/>
 <br>
 <h3>Project : TO-DO App</h3>
 <hr/>
